@@ -1,0 +1,6 @@
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Infrastructure.CrossCutting.Util\bin\Debug\Livraria.Infrastructure.CrossCutting.Util.dll
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Infrastructure.CrossCutting.Util\bin\Debug\Livraria.Infrastructure.CrossCutting.Util.pdb
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Infrastructure.CrossCutting.Util\obj\Debug\Livraria.Infrastructure.CrossCutting.Util.csprojAssemblyReference.cache
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Infrastructure.CrossCutting.Util\obj\Debug\Livraria.Infrastructure.CrossCutting.Util.csproj.CoreCompileInputs.cache
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Infrastructure.CrossCutting.Util\obj\Debug\Livraria.Infrastructure.CrossCutting.Util.dll
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Infrastructure.CrossCutting.Util\obj\Debug\Livraria.Infrastructure.CrossCutting.Util.pdb

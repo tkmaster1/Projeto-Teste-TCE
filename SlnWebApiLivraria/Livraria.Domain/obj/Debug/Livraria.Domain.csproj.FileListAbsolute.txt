@@ -1,0 +1,9 @@
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\bin\Debug\Livraria.Domain.dll
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\bin\Debug\Livraria.Domain.pdb
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\obj\Debug\Livraria.Domain.csprojAssemblyReference.cache
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\obj\Debug\Livraria.Domain.csproj.CoreCompileInputs.cache
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\obj\Debug\Livraria.Domain.dll
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\obj\Debug\Livraria.Domain.pdb
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\bin\Debug\Livraria.Infrastructure.CrossCutting.Util.dll
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\bin\Debug\Livraria.Infrastructure.CrossCutting.Util.pdb
+D:\Projetos\Exemplos\TesteProjetoTCE-RJ\SlnWebApiLivraria\Livraria.Domain\obj\Debug\Livraria.Domain.csproj.CopyComplete
